@@ -5,7 +5,7 @@ Created on Thu Dec  1 21:02:19 2022
 @author: Osman VARIŞLI
 """
 
-import requests;
+import requests
 from bs4 import BeautifulSoup
 from lxml import etree
 import pandas as pd
